@@ -6,7 +6,8 @@
 
 The frontend allows business owners to embed booking and lead capture widgets on their websites, manage leads, bookings, and customers from a central dashboard, and interact seamlessly with the backend API.
 
----
+
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](./LICENSE)
 
 ## Table of Contents
 
@@ -128,7 +129,9 @@ bookly-frontend/
 | NEXT_PUBLIC_EMBED_KEY	| Public API key for the embeddable widget |
 
 ### License
-This project is licensed under the MIT License. See LICENSE for details.
+© 2025 flowz0 – All rights reserved.
 
-### Contact
-Billy Flowers – billylflowers@gmail.com
+This project is **proprietary** and not open-source.
+You may **not** reuse, copy, modify, or distribute any part of this code **without** explicit written **permission**.
+
+> For licensing inquiries, email: **contact@netflows.xyz**
