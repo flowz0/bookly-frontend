@@ -11,14 +11,18 @@ The frontend allows business owners to embed booking and lead capture widgets on
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Scripts](#scripts)
-- [Environment Variables](#environment-variables)
-- [License](#license)
+- [Bookly Frontend](#bookly-frontend)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Tech Stack](#tech-stack)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Project Structure](#project-structure)
+    - [Scripts](#scripts)
+    - [Environment Variables](#environment-variables)
+    - [Contact](#contact)
 
 ---
 
@@ -128,10 +132,5 @@ bookly-frontend/
 | NEXT_PUBLIC_API_URL |	URL of the Bookly backend API |
 | NEXT_PUBLIC_EMBED_KEY	| Public API key for the embeddable widget |
 
-### License
-© 2025 flowz0 – All rights reserved.
-
-This project is **proprietary** and not open-source.
-You may **not** reuse, copy, modify, or distribute any part of this code **without** explicit written **permission**.
-
-> For licensing inquiries, email: **contact@netflows.xyz**
+### Contact
+For licensing inquiries, email: **billylflowers@gmail.com**
