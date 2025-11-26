@@ -1,0 +1,17 @@
+MITIGATION OF LIABILITY AND ALL RIGHTS RESERVED LICENSE
+
+Copyright (c) 2025 Billy Flowers (flowz0)
+
+All Rights Reserved.
+
+Permission is NOT granted to use, copy, modify, distribute, or publicly display
+this software, in whole or in part, without the express written consent of the
+copyright owner.
+
+Any unauthorized use of this software is strictly prohibited and may result in
+civil and criminal liability under applicable law.
+
+For permission to use or license this software, please contact:
+
+Billy Flowers (flowz0)
+Email: [billylflowers@gmail.com]
